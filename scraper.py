@@ -28,4 +28,4 @@ purchase_date = opinion.select_one(
 
 print(opinion_id, author, recomm, stars, content, pros, cons, useful, useless, purchased, publish_date, purchase_date)
 
-# print(page_dom.prettify())a
+# print(page_dom.prettify())
