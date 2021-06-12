@@ -17,4 +17,4 @@
 |Dla ilu osób nieużyteczna|`span[id^="votes-no"]` <br> `button.vote-no > span` <br> `button.vote-no["data-total-vote"]`|useless|int|
 |Czy opinia potwierdzona zakupem|`div.review-pz`|purchased|bool|
 |Data wystawienia opinii|`span.user-post__published > time:nth-child(1)["datetime"]`|publish_date|datetime|
-|Data zakupu produktu|`span.user-post__published > time:nth-child(2)["datetime"]`|purchase_date|datetime|
+|Data zakupu produktu|`span.user-post__published > time:nth-child(2)["datetime"]`|purchase_date|datetimea|
