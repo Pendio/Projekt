@@ -52,4 +52,4 @@ while next_page:
 with open("opinions/{}.json".format(product_id), "w", encoding="UTF-8") as jf:
     json.dump(all_opinions, jf, indent=4, ensure_ascii=False)
 
-# print(json.dumps(all_opinions, indent=4, ensure_ascii=False)a)
+# print(json.dumps(all_opinions, indent=4, ensure_ascii=False))

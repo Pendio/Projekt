@@ -33,4 +33,4 @@ plt.close()
 recomm = opinions.recomm.value_counts(dropna=False).sort_index()
 
 recomm.plot.pie(colors=['crimson', 'forestgreen', 'gold'])
-plt.show()a
+plt.show()
