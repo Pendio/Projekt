@@ -7,7 +7,7 @@ idna==2.10
 kiwisolver==1.3.1
 matplotlib==3.4.2
 numpy==1.20.3
-pandas==1.2.4
+pandas==1.2.4gi
 Pillow==8.2.0
 pycodestyle==2.7.0
 pyparsing==2.4.7
